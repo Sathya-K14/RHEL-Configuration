@@ -1,0 +1,8 @@
+[AppStream-DVD]
+baseurl=file:///run/media/root/RHEL-8-4-0-BaseOS-x86_64/AppStream
+gpgcheck=0
+
+[BaseOS-DVD]
+baseurl=file:///run/media/root/RHEL-8-4-0-BaseOS-x86_64/BaseOS
+gpgcheck=0
+
